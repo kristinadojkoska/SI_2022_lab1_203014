@@ -1,5 +1,13 @@
 mleko 1
+<<<<<<< HEAD
 kakao 3
 biskviti 3
 seker 2
 cokolado 3
+=======
+jabolka 2
+biskviti 3
+seker 2
+cokolado 2
+lesnici 30
+>>>>>>> branch2
