@@ -3,3 +3,4 @@ jabolka 2
 biskviti 3
 seker 2
 cokolado 2
+lesnici 30
