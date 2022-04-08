@@ -2,4 +2,4 @@ mleko 1
 kakao 3
 biskviti 3
 seker 2
-cokolado 2
+cokolado 3
